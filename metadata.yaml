@@ -1,0 +1,30 @@
+_repo: Blazing-The-WayTrue-Stories-Songs-and-Sketches-of-Puget-Sound_39334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Denny, Emily Inez
+    alias: Denny, E. I.‏  (Emily Inez)
+    birthdate: 1853
+    deathdate: 1918
+    gutenberg_agent_id: '39976'
+    url: http://www.gutenberg.org/2009/agents/39976
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Northwestern States'
+- !lcc 'F850.5'
+- !lcsh 'Washington (State) -- History'
+- !lcsh 'Oregon Territory -- History'
+title: Blazing the Way; Or, True Stories, Songs and Sketches of Puget Sound
+url: http://www.gutenberg.org/ebooks/39334
