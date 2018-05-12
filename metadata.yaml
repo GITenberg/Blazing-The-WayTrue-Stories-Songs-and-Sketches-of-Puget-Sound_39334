@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39976'
     url: http://www.gutenberg.org/2009/agents/39976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39334#Blazing-The-WayTrue-Stories-Songs-and-Sketches-of-Puget-Sound
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
